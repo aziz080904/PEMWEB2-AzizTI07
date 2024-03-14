@@ -100,9 +100,6 @@ $ar_domisili = ["Jakarta", "Bogor", "Depok", "Tanggerang", "Bekasi", "Lainnya"];
     <label for="domisili" class="col-4 col-form-label">Tempat Domisili</label> 
     <div class="col-8">
       <select id="domisili" name="domisili" class="custom-select">
-        <!-- <option value="jakarta">Jakarta</option>
-        <option value="depok">Depok</option>
-        <option value="bogor">Bogor</option> -->
         <?php
         foreach ($ar_domisili as $domisili) {
             echo "<option value='$domisili'>$domisili</option>";
