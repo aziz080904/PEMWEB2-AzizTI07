@@ -34,7 +34,7 @@
     case 'php':
       $total_skor += 30;
         break;  
-    case 'python':
+    case 'phyton':
       $total_skor += 30;
         break;
     case 'java':
