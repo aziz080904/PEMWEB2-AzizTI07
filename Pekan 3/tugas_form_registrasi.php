@@ -11,7 +11,7 @@ $ar_domisili = ["Jakarta", "Bogor", "Depok", "Tanggerang", "Bekasi", "Lainnya"];
 
 <h3>Form Registrasi IT Club Data Science</h3>
 <br>
-<form method="POST" action="proses_registrasi.php">
+<form method="POST" action="tugas_proses_registrasi.php">
   <div class="form-group row">
     <label for="nim" class="col-4 col-form-label">NIM</label> 
     <div class="col-8">
